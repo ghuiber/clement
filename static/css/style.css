@@ -2,7 +2,8 @@ body {
   max-width: 600px;
   margin: auto;
   padding: 1em;
-  line-height: 1.5em;
+  line-height: 1.8em;
+  font-size: 1.1em;
   background-color: #EEEEEE;
   color: #450011;
 }
@@ -55,6 +56,6 @@ th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee }
 
 a {
-  color: #606060;
+  color: #505050;
   text-decoration: none;
 }
